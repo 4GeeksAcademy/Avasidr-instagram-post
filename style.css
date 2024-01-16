@@ -1,0 +1,50 @@
+body {
+    background: black;
+    font-family: Roboto;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.post {
+    background: white;
+}
+
+.post-header {
+    display: flex;
+    padding: 10px 10px 0 10px;
+}
+
+.name-user {
+    padding: 0;
+    margin: 0;
+}
+
+.name-user p {
+    margin: 0;
+}
+
+.post-dots {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+img {
+    width: 600px;
+}
+
+i {
+    margin: 0 10px 5px 0;
+}
+
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.post-body {
+    margin: 5px 10px 5px 10px;
+    padding: 10px 5px 5px 10px;
+}
